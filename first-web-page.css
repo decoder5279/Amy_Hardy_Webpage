@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+body{
+  background-color: #d7cec7;
+  font-family: 'Oswald', sans-serif;
+}
+img {
+  margin-left: 30%;
+}
+header{
+  background-color: #565656;
+  padding-top: 5pt;
+  padding-bottom: 10pt;
+}
+h1 {
+
+ color: #c09f80;
+ text-align: center;
+ font-family: 'Playfair Display', serif;
+
+}
+
+h2, h3 {
+
+ color: #c09f80;
+ text-align: center;
+ font-family: comic sans-serif;
+
+}
+
+.bio-heading {
+color: #76323F;
+font-family: 'Playfair Display', serif;
+}
+
+.Amy {
+  padding: 20pt;
+ border-style: solid;
+ border-width: medium;
+  width: 400pt;
+  height: 300pt;
+  float: left;
+}
+
+
+
+.Hardi {
+  padding: 20pt;
+  border-style: solid;
+  border-width: medium;
+  width: 400pt;
+  height: 300pt;
+  float:right;
+}
+
+footer{
+  text-align: center;
+  clear: both;
+  background-color: #76323F;
+  padding-top: 5pt;
+  padding-bottom: 10pt;
+  color: #C09F80;
+  font-size: 18pt;
+
+}
+
+a:hover {
+  color: #565656;
+  font-size: 20pt;
+}
+
+a:visited {
+  color: white;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: #c09f80 ;
+  clear: both;
+}
+
+table  td{
+  font-size: 16pt;
+  /*font-family: 'Oswald', sans-serif;*/
+  font-style: oblique;
+  text-align: right;
+  margin-left: auto;
+}
